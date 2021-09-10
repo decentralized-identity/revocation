@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 1
 The revocation work item group is part of the crypto-wg (https://identity.foundation/working-groups/crypto.html). 
 We will define one or more revocation methods for verifiable credentials.
 The base of this working group is the definition of the work item. You can find the description here https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md
