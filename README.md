@@ -23,7 +23,6 @@ With this method we want to avoid iterations and ensure that we have assessed al
 |----   |---------                            |-------------|---------|
 |1      |Collect revocation methods |Running|tbd|
 |2      |Define assessment setup (#of entries, #of revocations per epoch,...)<br />for performance testing |To-Do|tbd|
-|3      |Define requirements for privacy (correlation (linked, linkable), traceability,<br />leaking of usage data,..) |To-Do |tbd|
-|4      |Define performance requirements (computational effort, storage,<br />data transmission, sizes,...)|To-Do|tbd|
-|5      |Assess the revocation methods and define one or more revocation methods<br />that fits the purpose|To-Do|tbd|
-|6      |Create the protocol|To-Do|tbd|
+|3      |- Define requirements for privacy (correlation (linked, linkable), traceability,<br />leaking of usage data,..)<br />- Define performance requirements (computational effort, storage,<br />data transmission, sizes,...)|To-Do |tbd|
+|4      |Assess the revocation methods and define one or more revocation methods<br />that fits the purpose|To-Do|tbd|
+|5      |Create the protocol|To-Do|tbd|
