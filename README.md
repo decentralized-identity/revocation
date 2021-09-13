@@ -21,7 +21,7 @@ With this method we want to avoid iterations and ensure that we have assessed al
 
 | Step #| Step                                | Status      | Owner   |
 |----   |---------                            |-------------|---------|
-|1      |Collect possible revocation methods |Running|tbd|
+|1      |Collect revocation methods |Running|tbd|
 |2      |Define assessment setup (#of entries, #of revocations per epoch,...)<br />for performance testing |To-Do|tbd|
 |3      |Define requirements for privacy (correlation (linked, linkable), traceability,<br />leaking of usage data,..) |To-Do |tbd|
 |4      |Define performance requirements (computational effort, storage,<br />data transmission, sizes,...)|To-Do|tbd|
