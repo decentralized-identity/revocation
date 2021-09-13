@@ -1,1 +1,1 @@
-
+- Privacy pereserving revocation method https://hackmd.io/O4c3wiLZQLeXuXirm7dl9A#Math-explaination
