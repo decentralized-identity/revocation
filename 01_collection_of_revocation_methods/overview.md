@@ -1,5 +1,5 @@
-The following list is a collection of revocation methods that may be suitable for revocation.
-**STATUS:** The list is not sorted or assessed
+The following list is a collection of revocation methods that may be suitable for revocation.<br/> 
+**STATUS-13.09.2021:** The list is not sorted, complete or assessed
 
 
 |#      | Name                                  | Type                    | From                            | Link |
