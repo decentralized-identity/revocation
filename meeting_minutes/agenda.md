@@ -28,7 +28,8 @@ Participants:
 
 Agenda:
 - Organisational
-- Review method
-- Review open tasks
+  - Alignment of the process
+- Review current revocation methods, add and define next steps
+- Open tasks
 - Distribute tasks in the team
 - any other business
