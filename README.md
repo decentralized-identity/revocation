@@ -11,8 +11,9 @@ Zoom link: https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnR
 Agenda and meeting minutes can be found in the folder /meeting_minutes
 
 # Work item owner
-Andreas Freitag
-Mike Lodder
+- Andreas Freitag (andreas.freitag.77@gmail.com)
+- Mike Lodder (redmike7@gmail.com)
+- Dave Huseby (dave@cryptid.tech)
 
 ## Procedure and Status
 We do not start with a specific accumulator method. We will first collect all possible methods, group them, assess them and then select suitable methods. 
