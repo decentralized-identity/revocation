@@ -27,6 +27,8 @@ Participants:
 - Andreas Freitag
 
 Agenda:
+- Intro round
+- Who else should we invite?
 - Organisational
     - bi weekly meetings
     - tools we should use
