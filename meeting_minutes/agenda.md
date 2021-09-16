@@ -28,8 +28,9 @@ Participants:
 
 Agenda:
 - Organisational
-  - Alignment of the process
-- Review current revocation methods, add and define next steps
-- Open tasks
-- Distribute tasks in the team
+    - bi weekly meetings
+    - tools we should use
+    - co owner / host 
+- Alignment of the overall process
+- Distribute tasks
 - any other business
