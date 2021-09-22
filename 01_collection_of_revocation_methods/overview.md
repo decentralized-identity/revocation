@@ -8,6 +8,6 @@ The following list is a collection of revocation methods that may be suitable fo
 |2      | tbd                                   |cryptographic accumulator|Mike Lodder                      ||
 |3      | "short group signature"               |Signatures               |Mike Lodder                      ||
 |4      | A ZKP Revocation Scheme               |Bitarray                 |Stephan Curran/Andrew Whitehead  |[link](https://hackmd.io/BnXrxY5JSyaeDyQPoKzwgw?view)|
-|5      | Status List 2021                      |Bitarray                 |Digital Bazar                    |[link](https://w3c-ccg.github.io/vc-status-list-2021/#abstract)|
+|5      | Status List 2021                      |Bitarray                 |Digital Bazaar                   |[link](https://w3c-ccg.github.io/vc-status-list-2021/#abstract)|
 |6      | "new approach“                        |Signed Accumulator       |Andrew Whitehead                 ||                           
 
