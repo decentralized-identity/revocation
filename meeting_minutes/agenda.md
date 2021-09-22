@@ -25,14 +25,25 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 Participants:
 - Andreas Freitag
+- Tomislav Markovski
+- Andrew Whitehead
+- Jeremie Miller
+- Mike Lodder
+- Brian Richter
 
 Agenda:
 - Intro round
 - Who else should we invite?
 - Organisational
-    - bi weekly meetings
-    - tools we should use
-    - co owner / host 
-- Alignment of the overall process
-- Distribute tasks
+    - bi weekly meetings - accepted
+    - tools we should use - github and hackmd
+    - co owner / host - Brian Richter and Mike Lodder
+- Alignment of the overall process - accpeted
+- Distribute tasks 
 - any other business
+
+Actions:
+- Mike will describe his three types of revocation methods
+- Andrew will describe his newest suggestion for a revocation methods
+- Andreas will suggest a testsetup as base for discussion
+- Andreas will share his results from a questionnaire for requirements for revocation
