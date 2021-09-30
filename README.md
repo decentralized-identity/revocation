@@ -21,8 +21,8 @@ With this method we want to avoid iterations and ensure that we have assessed al
 
 | Step #| Step                                | Status      | Owner   |
 |----   |---------                            |-------------|---------|
-|1      |Collect revocation methods |Running|tbd|
-|2      |Define assessment setup (#of entries, #of revocations per epoch,...)<br />for performance testing |To-Do|tbd|
-|3      |- Define requirements for privacy (correlation (linked, linkable), traceability,<br />leaking of usage data,..)<br />- Define performance requirements (computational effort, storage,<br />data transmission, sizes,...)|To-Do |tbd|
+|1      |Collect revocation methods |in progress|tbd|
+|2      |Define assessment setup (#of entries, #of revocations per epoch,...)<br />for performance testing |in progress|tbd|
+|3      |- Define requirements for privacy (correlation (linked, linkable), traceability,<br />leaking of usage data,..)<br />- Define performance requirements (computational effort, storage,<br />data transmission, sizes,...)|in progress |tbd|
 |4      |Assess the revocation methods and define one or more revocation methods<br />that fits the purpose|To-Do|tbd|
 |5      |Create the protocol|To-Do|tbd|
