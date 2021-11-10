@@ -16,6 +16,7 @@ Agenda and meeting minutes can be found in the folder /meeting_minutes
 - Dave Huseby (dave@cryptid.tech)
 
 # Documents
+### Spreadsheet
 All information can be found in the following spreadsheet:
 - https://docs.google.com/spreadsheets/d/1B6Koo8_wUoN4SPDvX7gaKBtkKBr6efOLwKIeVoy4mdI/edit?usp=sharing![image](https://user-images.githubusercontent.com/17032235/141115199-8ba436f5-76c3-4b91-91b4-92923b8b55db.png)
 
@@ -23,8 +24,12 @@ It includes:
 - the list of revocation methods
 - assessment setup
 - assessment results (if available)
+- 
+### Presentation
+A presentation of the revocation working group and the schemas can be found in the following presentation (under construction)
+- https://docs.google.com/presentation/d/1neH5LxuWlcagAa6jUcrikVOU_fgSFhWAiascqdaRl1w/edit#
 
-## Procedure and Status
+# Procedure and Status
 We do not start with a specific accumulator method. We will first collect all possible methods, group them, assess them and then select suitable methods. 
 With this method we want to avoid iterations and ensure that we have assessed all promissing methods.
 
