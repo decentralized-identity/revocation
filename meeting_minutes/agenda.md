@@ -20,6 +20,56 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Calendar entry](https://calendar.google.com/calendar/u/0/r/eventedit/XzhkMGs4YzloNnNyNDhiYTI2NHA0NmI5azY0czNjYmExNmNzMzRiOW02aDEzMmM5azZwMGsyaGhnOGsgYW5kcmVhcy5mcmVpdGFnLjc3QG0?sf=true)
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
+## Meeting - Thursday 11th November 2021 (2PM ET)
+
+Participants:
+- Andreas Freitag
+- David Waite
+- Jeremie Miller
+- Brian Richter
+
+Agenda:
+- Intro new participants
+- Housekeeping 
+    - github
+    - Spreadsheet
+    - Presentation (new)
+- How we can move faster?
+
+Next Steps:
+- zk-SAM
+    - Call with Stephan to understand the details
+    -  Start the graphics for zk-SAM schema
+- BBF18/VB20
+    - Detail the graphics for BBF18 and VB20
+    - Research the cost of different update processes (deltas, download reg.list, issuer petition)
+- Brian can start on working on the code if available
+
+
+
+
+## Meeting - Thursday 30th September 2021 (2PM ET)
+
+Participants:
+- Andreas Freitag
+- Andrew Whitehead
+- Tomislav Markovski
+- David Huseby
+
+Agenda:
+- Results from a survey (Andreas)
+- Suggestion for an assessment setup (Andreas)
+- list of methods 
+- definition of KO criteria (e.g. privacy)
+- issues
+
+Next Steps:
+- put the questionnaire files on github
+- Finish the description
+- define Knock-Out criterias
+
+
+
 
 ## Meeting - Thursday 16th September 2021 - (2pm ET)
 
@@ -43,6 +93,7 @@ Agenda:
 - any other business
 
 Actions:
+- Brian and Mike will be owner of the revocation working item
 - Mike will describe his three types of revocation methods
 - Andrew will describe his newest suggestion for a revocation methods
 - Andreas will suggest a testsetup as base for discussion
