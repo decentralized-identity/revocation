@@ -20,6 +20,26 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Calendar entry](https://calendar.google.com/calendar/u/0/r/eventedit/XzhkMGs4YzloNnNyNDhiYTI2NHA0NmI5azY0czNjYmExNmNzMzRiOW02aDEzMmM5azZwMGsyaGhnOGsgYW5kcmVhcy5mcmVpdGFnLjc3QG0?sf=true)
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
+
+
+## Meeting - Thursday 25th November 2021 (2PM ET)
+Because of Thanksgiving the meeting did not take place
+
+Participants:
+- Andreas Freitag
+
+
+Agenda:
+- Walk through the BBF18 and VB20 schema suggested from Mike (see slides 16-21)
+- Discuss different options for witness update and asses (slide22)
+- Implementation and run performance test for BBF18
+- Assess VB20 implementation from Mike
+    - Confirmation and Feedback
+    - who can do that?
+- Assess zk-SAM implementation from Andrew
+    - Confirmation and Feedback
+    - Who can do that?
+
 ## Meeting - Thursday 11th November 2021 (2PM ET)
 
 Participants:
