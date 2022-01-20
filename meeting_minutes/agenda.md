@@ -21,15 +21,49 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Thursday 20 January 2022 (2PM ET)
+**Participants:**
+- Andreas Freitag
+- Andrew Whitehead
+- David Waite
+- Mike Lodder
+- Brian Richter
+
+**Agenda:**
+- Update from everybody - long time no see
+- Presenting the "ValidityVerifiableCredential" Schema and highlighting advantages and disadvantages
+    - It is not based on cryptographic accumulators
+- No updates on the other schemas
+
+
+
+
+## Meeting - Thursday 09th December 2021 (2PM ET)
+**Participants:**
+- Andreas Freitag
+- Andrew Whitehead
+- Jeremie Miller
+- Brian Richter
+
+**Agenda:**
+- Walk through the BBF18 and VB20 schema suggested from Mike (see slides 16-21)
+- Discuss different options for witness update and asses (slide22)
+- Implementation and run performance test for BBF18
+- Assess VB20 implementation from Mike
+    - Validator needed for confirmation and feedback.
+- Assess zk-SAM implementation from Andrew
+    - Validator needed for confirmation and Feedback.
+
+
+
 
 ## Meeting - Thursday 25th November 2021 (2PM ET)
 Because of Thanksgiving the meeting did not take place
 
-Participants:
+**Participants:**
 - Andreas Freitag
 
-
-Agenda:
+**Agenda:**
 - Walk through the BBF18 and VB20 schema suggested from Mike (see slides 16-21)
 - Discuss different options for witness update and asses (slide22)
 - Implementation and run performance test for BBF18
