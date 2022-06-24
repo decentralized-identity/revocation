@@ -1,0 +1,15 @@
+{
+  "name": "non-revocation-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "spec": "node -e \"require('spec-up')({ nowatch: true })\"",
+    "spec:edit": "node -e \"require('spec-up')()\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spec-up": "^0.10.5"
+  }
+}
