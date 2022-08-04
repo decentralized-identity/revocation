@@ -18,6 +18,20 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Thursday 21 July 2022 (2PM ET)
+
+**Participants:**
+
+- Andrew Whitehead
+- Brian Richter
+- Jeremie Miller
+- Dmitri Zagidulin
+
+**Agenda:**
+
+- Discuss spec-up katex blocker
+- Create issues for open questions on Non Revocation Token method
+
 ## Meeting - Thursday 23 June 2022 (2PM ET)
 
 **Participants:**
