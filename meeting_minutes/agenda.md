@@ -23,6 +23,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 **Participants:**
 
 - Brian Richter
+- Andrew Whitehead
+- David Waite
 
 **Agenda:**
 
@@ -33,6 +35,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - discussion
  - moving meeting time
  - increasing/decreasing cadence
+ - other interested parties
 
 ## Meeting - Thursday 21 July 2022 (2PM ET)
 
