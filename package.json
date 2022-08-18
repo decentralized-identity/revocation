@@ -6,7 +6,7 @@
   "scripts": {
     "setup": "cp katex-spec-up.js node_modules/spec-up/index.js",
     "spec": "node -e \"require('spec-up')({ nowatch: true, katex: true })\"",
-    "spec:edit": "node -e \"require('spec-up')()\""
+    "spec:edit": "node -e \"require('spec-up')({katex: true})\""
   },
   "author": "",
   "license": "ISC",
