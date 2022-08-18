@@ -18,6 +18,25 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Thursday 18 August 2022 (2PM ET)
+
+**Participants:**
+
+- Brian Richter
+- Andrew Whitehead
+- David Waite
+
+**Agenda:**
+
+- non revocation token spec merged in with workaround
+- how to get it hosted at DIF
+- requirements PR
+- issues
+- discussion
+ - moving meeting time
+ - increasing/decreasing cadence
+ - other interested parties
+
 ## Meeting - Thursday 21 July 2022 (2PM ET)
 
 **Participants:**
