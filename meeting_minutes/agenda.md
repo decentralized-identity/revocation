@@ -18,6 +18,19 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Tuesday 25 October 2022 (11AM ET)
+
+**Participants:**
+- Brian Richter
+- Andrew Whitehead
+- Christian Paquin
+
+**Agenda:**
+- [Katex PR](https://github.com/decentralized-identity/spec-up/pull/42#issuecomment-1279065363)
+  - Andrew to see if Daniel wants it as required feature
+- Andrew met w/ academics & microsoft (show & tell)
+- Brian to read BBS+ spec
+
 ## Meeting - Thursday 18 August 2022 (2PM ET)
 
 **Participants:**
