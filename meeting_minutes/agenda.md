@@ -10,7 +10,7 @@ This document is live-edited DURING each call, or shortly after the call, and st
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd.\_
 
 <details>
-<summary> Meeting information - <b>1pm ET Thursdays</b></summary>
+<summary> Meeting information - <b>1pm ET every other Thursdays</b></summary>
 
 - Before your contribute - [**join DIF**](https://identity.foundation/join) and [**sign the WG charter**](https://bit.ly/DIF-WG-select1) (both are required!)
 - Time: 1pm ET, time in ET
