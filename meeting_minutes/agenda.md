@@ -10,22 +10,47 @@ This document is live-edited DURING each call, or shortly after the call, and st
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd.\_
 
 <details>
-<summary> Meeting information - <b>2pm ET odd Thursdays just before the crypto-wg call</b></summary>
+<summary> Meeting information - <b>1pm ET Thursdays</b></summary>
 
 - Before your contribute - [**join DIF**](https://identity.foundation/join) and [**sign the WG charter**](https://bit.ly/DIF-WG-select1) (both are required!)
-- Time: 2pm ET, time in ET
+- Time: 1pm ET, time in ET
 - [Calendar entry](https://calendar.google.com/calendar/u/0/r/eventedit/XzhkMGs4YzloNnNyNDhiYTI2NHA0NmI5azY0czNjYmExNmNzMzRiOW02aDEzMmM5azZwMGsyaGhnOGsgYW5kcmVhcy5mcmVpdGFnLjc3QG0?sf=true)
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Thursday 1 December 2022 (1PM ET)
+
+**Participants:**
+
+- Brian Richter
+- Andrew Whitehead
+- Christian Paquin
+- David Waite
+- Jeremie Miller
+
+**Agenda:**
+
+- Mike's AnonCreds Presentation
+  - https://wiki.hyperledger.org/display/ANONCREDS/2022-11-28+AnonCreds+Specification+Working+Group+Meeting
+- Katex PR - ready to merge
+- Christian asks where is the latest output of this group?
+  - action item: Write an introduction to the group
+    - what methods have we looked at?
+    - what methods are we doing more work with?
+- NRT
+  - action item: write section describing lifecycle
+- meeting cadence: every other week (up to an hour)
+
 ## Meeting - Tuesday 25 October 2022 (11AM ET)
 
 **Participants:**
+
 - Brian Richter
 - Andrew Whitehead
 - Christian Paquin
 
 **Agenda:**
+
 - [Katex PR](https://github.com/decentralized-identity/spec-up/pull/42#issuecomment-1279065363)
   - Andrew to see if Daniel wants it as required feature
 - Andrew met w/ academics & microsoft (show & tell)
@@ -46,9 +71,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - requirements PR
 - issues
 - discussion
- - moving meeting time
- - increasing/decreasing cadence
- - other interested parties
+- moving meeting time
+- increasing/decreasing cadence
+- other interested parties
 
 ## Meeting - Thursday 21 July 2022 (2PM ET)
 
