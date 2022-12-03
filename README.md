@@ -6,9 +6,7 @@ The base of this working group is the definition of the work item. You can find 
 
 # Meetings
 
-Regular meetings will be held bi-weekly on Thursday. Just before the crypto-wg call.
-Starting Thursday 20:00 CEST 16.09.2021
-Details see DIF calender.
+Regular meetings will be held bi-weekly on Thursday at 1:00PM EST.
 Zoom link: https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09
 Agenda and meeting minutes can be found in the folder /meeting_minutes
 
