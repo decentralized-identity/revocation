@@ -18,6 +18,10 @@ Participate:
 
 ## Abstract
 
+This specification describes a privacy-preserving revocation method for Verifiable Credentials. A _Non-Revocation Token_ that contains a cryptographic accumulator signed by the issuer is used by the holder to prove a Verifiable Credential hasn't been revoked for a particular timestamp.
+
+## Introduction
+
 A non-revocation token contains a cryptographic accumulator signed by the credential issuer, following the signing and proving processes laid out in [zk-SAM](https://hackmd.io/vTyqrJc9QoKgThqQpVtP3g?view). This allows for the holder to prove non-revocation of the credential for a particular timestamp, without revealing any extra correlating information. Like current BBS+ signature implementations the pairing-friendly BLS12-381 elliptic curve is used.
 
 This approach to proving the non-revocation of a verifiable credential has characteristics that meet some practical requirements for a number of important use cases. See the [Requirements and Characteristics](#requirements-and-characteristics) section later in this document.
