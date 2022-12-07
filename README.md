@@ -19,6 +19,14 @@ Agenda and meeting minutes can be found in the folder /meeting_minutes
 
 # Documents
 
+### Specifications
+
+The following revocation methods are currently being explored in the form of spec-up specifications:
+
+- [Non-Revocation Token](https://identity.foundation/revocation/non-revocation-token/)
+
+_If you would like to explore other revocation methods please join one of the working group calls and submit a proposal._
+
 ### Spreadsheet
 
 All information can be found in the following spreadsheet:
