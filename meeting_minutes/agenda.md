@@ -33,7 +33,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - moving requirements to intro and creating abstract
 - discussed NRT drawings
   - [ ] Action: Brian to update drawings and put into spec
-- [ ] Action: Brian to poke DIF staff to get calendar events proper
+  - https://identity.foundation/spec-up/#flows
+- [x] Action: Brian to poke DIF staff to get calendar events proper
 
 ## Meeting - Thursday 1 December 2022 (1PM ET)
 
