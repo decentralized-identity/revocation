@@ -18,6 +18,24 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/82260779505?pwd=RTVsNGZGaFZ2cHdCd0hBanNvQnRudz09%3C/b%3E%3Cbr%3E%3Cbr%3EMeeting), Meeting ID: 822 6077 9505 , Password: 201920
 </details>
 
+## Meeting - Thursday 15 December 2022 (1PM ET)
+
+**Participants:**
+
+- Brian Richter
+- Andrew Whitehead
+
+**Agenda:**
+
+- Andrew has been working on some changes to linked credentials
+- PRs reviewed
+  - adding link to NRT to readme
+  - moving requirements to intro and creating abstract
+- discussed NRT drawings
+  - [ ] Action: Brian to update drawings and put into spec
+  - https://identity.foundation/spec-up/#flows
+- [x] Action: Brian to poke DIF staff to get calendar events proper
+
 ## Meeting - Thursday 1 December 2022 (1PM ET)
 
 **Participants:**
